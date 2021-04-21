@@ -12,6 +12,9 @@ export const AppConfig = t.iface([], {
   "wiLockDeviceId": "string",
   "wiLockDeviceSwitchName": "string",
   "allowedGroupId": "number",
+  "discordBotId": "string",
+  "discordBotToken": "string",
+  "discordAllowedGroupId": "string",
 });
 
 const exportedTypeSuite: t.ITypeSuite = {
