@@ -8,6 +8,10 @@ const defaultAppConfig: AppConfig = {
   wiLockDeviceId: 'pf4U6cw3zRBWR23gdgFY6J',
   wiLockDeviceSwitchName: 'OnOff2',
   allowedGroupId: -1001223251522,
+
+  discordBotId: '833577132781338624',
+  discordBotToken: '',
+  discordAllowedGroupId: '',
 };
 
 // eslint-disable-next-line import/no-default-export
